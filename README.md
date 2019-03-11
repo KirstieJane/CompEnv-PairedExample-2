@@ -38,7 +38,8 @@ Two of the branches have requirements files.
 ## Questions
 
 * What's different between these two branches?
-* What is the difference in the code?
+* What is the difference in the analysis?
+* How do these differences arise?
 
 ## Acknowledgements
 
